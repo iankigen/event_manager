@@ -1,7 +1,6 @@
 require 'csv'
 require 'erb'
 require 'google/apis/civicinfo_v2'
-require 'pry'
 
 
 puts 'EventManager initialized.'
